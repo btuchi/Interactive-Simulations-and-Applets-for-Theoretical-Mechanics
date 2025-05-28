@@ -182,22 +182,6 @@ This project serves as an excellent starting point for:
 - Create reusable physics simulation framework
 - Add data export capabilities
 
-### Getting Started as a Contributor
-
-1. **Fork the repository**
-2. **Choose a simulation category** to extend or create new ones
-3. **Follow the existing code patterns** for consistency
-4. **Test across different browsers**
-5. **Document your physics concepts clearly**
-6. **Submit pull requests** with educational focus
-
-### Collaboration Guidelines
-- **Maintain educational value** as the primary goal
-- **Preserve the interactive, real-time nature** of simulations
-- **Keep physics accuracy** as a top priority
-- **Follow the established folder structure** for new simulations
-- **Include comprehensive comments** for future student developers
-
 **This is a living educational project - your contributions help future students learn physics through interactive exploration!**
 
 ## 📖 Background & Theory
@@ -221,15 +205,6 @@ where L is the Lagrangian, T is kinetic energy, and V is potential energy.
 - **Harmonic Motion:** Fundamental oscillatory behavior
 - **Central Forces:** Gravitational and electromagnetic interactions
 
-## 📝 License & Citation
-
-This educational software was developed during Summer 2022 as foundational work and is now maintained as an open educational resource for continuous student development. If you use these simulations in your research or teaching, please cite:
-
-```
-Monaco, K. & Tu Chi, B. (2022). Interactive Simulations and Applets for Theoretical Mechanics. 
-Supervised by Prof. Brian Shuve. Summer 2022 Foundation - Continued by Student Contributors.
-```
-
 **Project Timeline:**
 - **Summer 2022:** Initial development and core simulations
 - **2022 Onward:** Open for continuous student development and enhancement
@@ -252,7 +227,7 @@ Supervised by Prof. Brian Shuve. Summer 2022 Foundation - Continued by Student C
 
 **This project began in Summer 2022 and continues to grow!** The foundation has been laid - now it's ready for future students to build upon, expand, and enhance. Explore, experiment, discover, and contribute to this educational resource!
 
-## 📞 Contact & Support
+## Acknowledgement
 
 **Original Development Team (Summer 2022):**
 - **Course Instructor:** Professor Brian Shuve
